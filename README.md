@@ -1,6 +1,6 @@
 # Xylophone 🎹
 
-Completed tasks from this stage of the Flutter tutorial. Succesfully incorporated libraries, play sounds, and updated UI.
+Completed tasks from this stage of the Flutter tutorial. Succesfully incorporated libraries, play sounds, and updated UI. Each colored key plays a different sound. The UI is 100% responsive to the size of the screen.
 
 ## Our Goal
 
