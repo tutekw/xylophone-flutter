@@ -35,7 +35,7 @@ class XylophoneApp extends StatelessWidget {
               _buildSoundButton(noteNumber: 3, buttonColor: Colors.yellow),
               _buildSoundButton(noteNumber: 4, buttonColor: Colors.green),
               _buildSoundButton(noteNumber: 5, buttonColor: Colors.teal),
-              _buildSoundButton(noteNumber: 6, buttonColor: Colors.pink),
+              _buildSoundButton(noteNumber: 6, buttonColor: Colors.blue),
               _buildSoundButton(noteNumber: 7, buttonColor: Colors.purple),
             ],
           ),
