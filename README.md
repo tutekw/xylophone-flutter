@@ -1,7 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Xylophone 🎹
+
+Completed tasks from this stage of the Flutter tutorial. Succesfully incorporated libraries, play sounds, and updated UI. Each colored key plays a different sound. The UI is 100% responsive to the size of the screen.
 
 ## Our Goal
 
@@ -24,4 +23,4 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
